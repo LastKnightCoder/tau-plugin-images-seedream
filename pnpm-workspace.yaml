@@ -1,0 +1,5 @@
+allowBuilds:
+  esbuild: true
+
+minimumReleaseAgeExclude:
+  - "@xiongtao.xt/tau-plugins@0.48.0"

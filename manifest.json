@@ -1,0 +1,13 @@
+{
+  "id": "tau.images-seedream",
+  "name": "Seedream 图片",
+  "description": "用字节跳动 Seedream 生成图片、编辑参考图或融合多张图片，结果可用于聊天、文档和白板。",
+  "categories": ["ai"],
+  "keywords": ["图片生成", "Seedream", "火山方舟", "豆包"],
+  "version": "0.1.0",
+  "targets": {
+    "desktop": { "minAppVersion": "0.60.2" },
+    "android": { "minAppVersion": "0.2.16" },
+    "ios": { "minAppVersion": "0.2.16" }
+  }
+}

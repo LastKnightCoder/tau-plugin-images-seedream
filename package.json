@@ -1,0 +1,34 @@
+{
+  "name": "tau-plugin-images-seedream",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastKnightCoder/tau-plugin-images-seedream.git"
+  },
+  "homepage": "https://github.com/LastKnightCoder/tau-plugin-images-seedream#readme",
+  "bugs": {
+    "url": "https://github.com/LastKnightCoder/tau-plugin-images-seedream/issues"
+  },
+  "packageManager": "pnpm@11.9.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "build": "pnpm check && node build.mjs"
+  },
+  "dependencies": {
+    "@tau/plugins": "npm:@xiongtao.xt/tau-plugins@0.48.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "adm-zip": "0.5.16",
+    "esbuild": "0.25.12",
+    "typescript": "5.8.3"
+  }
+}
