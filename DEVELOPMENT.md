@@ -9,7 +9,7 @@ pnpm install --frozen-lockfile
 pnpm build
 ```
 
-桌面最低版本为 0.68.0，Android 和 iOS 最低版本为 0.6.0。
+桌面最低版本为 0.68.0，Android 和 iOS 最低版本为 0.7.0。
 
 ## 本地与开发版安装
 
