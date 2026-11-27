@@ -1,0 +1,8 @@
+{
+  "account.title": "火山方舟账号",
+  "account.description": "提示词和参考图会发送到所配置的图片服务。",
+  "account.console": "火山方舟控制台",
+  "apiKey.label": "API Key",
+  "baseUrl.label": "服务地址",
+  "baseUrl.description": "默认使用火山方舟北京地域，地址填到 /api/v3。"
+}

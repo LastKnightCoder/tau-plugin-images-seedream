@@ -4,10 +4,23 @@
   "description": "用字节跳动 Seedream 生成图片、编辑参考图或融合多张图片，结果可用于聊天、文档和白板。",
   "categories": ["ai"],
   "keywords": ["图片生成", "Seedream", "火山方舟", "豆包"],
-  "version": "0.1.0",
+  "i18n": {
+    "zh-TW": {
+      "name": "Seedream 圖片",
+      "description": "使用字節跳動 Seedream 生成圖片、編輯參考圖或融合多張圖片，結果可用於對話、文件與白板。",
+      "keywords": ["圖片生成", "Seedream", "火山方舟", "豆包"]
+    },
+    "en-US": {
+      "name": "Seedream Images",
+      "description": "Generate images, edit reference images, or blend multiple images with ByteDance Seedream for use in chat, documents, and whiteboards.",
+      "keywords": ["image generation", "Seedream", "Volcengine Ark", "Doubao"]
+    }
+  },
+  "locales": ["zh-CN", "zh-TW", "en-US"],
+  "version": "0.1.1",
   "targets": {
-    "desktop": { "minAppVersion": "0.60.2" },
-    "android": { "minAppVersion": "0.2.16" },
-    "ios": { "minAppVersion": "0.2.16" }
+    "desktop": { "minAppVersion": "0.68.0" },
+    "android": { "minAppVersion": "0.6.0" },
+    "ios": { "minAppVersion": "0.6.0" }
   }
 }

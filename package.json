@@ -1,6 +1,6 @@
 {
   "name": "tau-plugin-images-seedream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "private": true,
   "type": "module",
@@ -21,7 +21,7 @@
     "build": "pnpm check && node build.mjs"
   },
   "dependencies": {
-    "@tau/plugins": "npm:@xiongtao.xt/tau-plugins@0.48.0",
+    "@tau/plugins": "npm:@xiongtao.xt/tau-plugins@0.63.0",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },

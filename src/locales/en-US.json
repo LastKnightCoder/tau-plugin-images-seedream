@@ -1,0 +1,8 @@
+{
+  "account.title": "Volcengine Ark account",
+  "account.description": "Prompts and reference images are sent to the configured image service.",
+  "account.console": "Volcengine Ark console",
+  "apiKey.label": "API Key",
+  "baseUrl.label": "Service URL",
+  "baseUrl.description": "The default endpoint uses the Beijing region. Include /api/v3 in the URL."
+}
